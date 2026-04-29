@@ -1,11 +1,23 @@
 
-  # CampusSphere Ecosystem Design
+  # CampusSphere
 
-  This is a code bundle for CampusSphere Ecosystem Design. The original project is available at https://www.figma.com/design/mOO07f3ZoeZGYdoECkOvsC/CampusSphere-Ecosystem-Design.
+CampusSphere is a centralized campus management platform designed to connect students, faculty, and administration in one place.
 
-  ## Running the code
+## Features
+- Event Management
+- Student & Coordinator Dashboards
+- Notifications System
+- QR Code Attendance
+- College Exploration Module
 
-  Run `npm i` to install the dependencies.
+## Tech Stack
+- React / TypeScript
+- Vite
+- CSS
 
-  Run `npm run dev` to start the development server.
-  
+## Running the Project
+npm install
+npm run dev
+
+## About
+CampusSphere streamlines communication, event updates, announcements, and campus-related services efficiently while enhancing the overall campus digital experience.
